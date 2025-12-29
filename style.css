@@ -16,7 +16,6 @@ body {
 
 div.header {
   background-color: #6155A6;
-  color: #FFFFFF;
   text-align: center;
   margin-left: -100px;
   margin-right: -100px;
@@ -30,12 +29,10 @@ li {
   margin-top: 30px;
   padding-top: 30px;
   padding-bottom: 30px;
-  color: #FFFFFF;
 }
 
 
 a {
-  color: #FFFFFF;
   text-decoration: none;
   font-family: effra, sans-serif;
   font-weight: 400;
