@@ -1,0 +1,135 @@
+@font-face {
+font-family: espiritu-script,sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+@font-face {
+font-family: effra,sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+body {
+  background-color: #FFE6E6;
+}
+
+div.header {
+  background-color: #6155A6;
+  color: white;
+  text-align: center;
+  margin-left: -100px;
+  margin-right: -100px;
+  margin-top: -15px;
+  padding: 15px;
+}
+
+li {
+  display: inline;
+  padding: 20px;
+  margin-top: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: white;
+}
+
+
+a {
+  color: white;
+  text-decoration: none;
+  font-family: effra, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+}
+
+div.letterlinks {
+  text-align: center;
+  font-family: effra, sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  color: #A685E2; 
+  line-height: 40px;
+}
+
+
+div.space {
+  height: 20vh;
+}
+
+h1 {
+  color: #6155A6;
+  font-family: espiritu-script,sans-serif;
+font-weight: 400;
+font-style: normal;
+  font-size: 100px; 
+  text-align: center;
+  
+}
+
+h2 {
+  color: #FFABE1;
+  text-align: center;  
+  font-family: effra, sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+}
+
+h3 {
+  color: #FFABE1;
+  text-align: left;
+  font-family: effra, sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  margin-left: 15vh;
+}
+
+p {
+  color: #A685E2;
+  margin-left: 25vh;
+  margin-right: 25vh;
+  padding: 20px;
+  font-family: effra, sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 40px;
+    
+}
+
+table {
+  text-align: center;
+  padding: 15px;
+  margin: 0px auto;
+  border-spacing: 25px;
+}
+
+td.date {
+  color: #FFABE1;
+  font-family: effra, sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  padding: 15px;
+}
+
+td.event {
+  color: #A685E2;
+  font-family: effra, sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  padding: 15px;
+}
+
+div.pics {
+  text-align: center;
+  padding: 10px;
+}
+
+div.song {
+  text-align: center;
+  font-family: effra, sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  color: #A685E2;
+  line-height: 35px;
+}
+
